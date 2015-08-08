@@ -20,3 +20,13 @@ $ npm run dist
 $ npm install
 $ npm run watch
 ```
+
+Running this on http-server:
+
+### Installing http server
+npm install http-server -g
+
+### Starting http-server
+node /usr/bin/http-server &
+
+
